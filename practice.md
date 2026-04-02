@@ -55,8 +55,9 @@ Feel free to contribute and don't forget to star the repo! :star:
 
 ## Comparison Table
 
-Feature    Basic Plan    Pro Plan    Enterprise
-Users      1-5           6-50        Unlimited
-Storage    10 GB         100 GB      Custom
-Support    Email         Priority    24/7 Phone
-Price      Free          $29/mo      Contact Us
+| Feature | Basic Plan | Pro Plan | Enterprise |
+|---------|------------|----------|------------|
+Users | 1-5 | 6-50 | Unlimited
+Storage | 10 GB | 100 GB | Custom
+Support | Email | Priority | 24/7 Phone
+Price | Free | $29/mo | Contact Us

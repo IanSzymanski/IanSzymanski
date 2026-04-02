@@ -30,7 +30,7 @@ npm start
 
 ## Screenshots
 
-![Markdown Logo](https://assets.codepen.io/16425/image-placeholder.png)
+![Placeholder Image](https://assets.codepen.io/16425/image-placeholder.png)
 
 
 ## Tasks

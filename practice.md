@@ -47,13 +47,13 @@ We :heart: open source! Let's build something amazing together!
 
 Feel free to contribute and don't forget to star the repo! :star:
 
-Important Notes
+## Important Notes
 
 > **NOTE:** This is a note alert. Useful for highlighting important information.
 
-TIP: Pro tip: Use keyboard shortcuts to speed up your workflow!
+> **TIP:** Pro tip: Use keyboard shortcuts to speed up your workflow!
 
-Comparison Table
+## Comparison Table
 
 Feature    Basic Plan    Pro Plan    Enterprise
 Users      1-5           6-50        Unlimited

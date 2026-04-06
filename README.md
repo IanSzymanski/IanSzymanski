@@ -12,3 +12,8 @@ I am a Spokane-based designer who likes to create things that simply work well. 
 [![Portfolio](assets/portfolioButton.png)](https://drive.google.com/file/d/12Sq3tYr5lHbIkyc9fB2Wfdtv3iEXkDUt/view?usp=drive_link)
 [![Email](assets/emailButton.png)](mailto:iwszyman@gmail.com)
 [![LinkedIn](assets/linkedinButton.png)](https://www.linkedin.com/in/ianszymanski)
+
+
+
+![Glow Divider](assets/Bar.gif)
+![IWS Footer](assets/Footer.png)

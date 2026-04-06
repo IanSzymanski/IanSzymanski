@@ -10,4 +10,4 @@ I am a Spokane-based designer who likes to create things that simply work well. 
 ## Contact
 Email: iwszyman@gmail.com
 
-LinkedIn: [ianszymanski](www.linkedin.com/in/ianszymanski)
+LinkedIn: [ianszymanski](https://www.linkedin.com/in/ianszymanski)

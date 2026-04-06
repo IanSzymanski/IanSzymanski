@@ -15,5 +15,4 @@ I am a Spokane-based designer who likes to create things that simply work well. 
 
 
 
-![Glow Divider](assets/Bar.gif)
 ![IWS Footer](assets/Footer.png)

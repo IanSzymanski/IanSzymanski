@@ -5,7 +5,7 @@
 > "If you care about something, give it 100%. **Don’t bother with the other stuff.**"
 
 # Hey, my name is Ian. 
-I am a Spokane-based designer who likes to create things that simply work well. From websites to large scale prints, I design for a wide variety of clients and audiences. Check out some of my work below, and contact me if you want to put an idea into motion.
+I am a Spokane-based designer who likes to create things that simply work well. From websites to large scale prints, I design for a wide variety of clients and audiences. When I'm not designing, I like to play, arrange, and coach music. I love to teach and inspire others how to give their best in whatever they do. Check out some of my work below, and contact me if you want to put an idea into motion.
 
 ## Links
 

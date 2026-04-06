@@ -13,6 +13,6 @@ I am a Spokane-based designer who likes to create things that simply work well. 
 [![Email](assets/emailButton.png)](mailto:iwszyman@gmail.com)
 [![LinkedIn](assets/linkedinButton.png)](https://www.linkedin.com/in/ianszymanski)
 
-## Thanks for stopping by.
+### Thanks for stopping by.
 
 ![IWS Footer](assets/Footer.png)
